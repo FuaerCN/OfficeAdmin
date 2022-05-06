@@ -1761,8 +1761,8 @@ function render_list($drive = null)
                         s += \'>\';
                         return s;
                     }},
-                    {field:\'usageLocation\', title: \'地区\', align: \'center\'},
-                    {field:\'assignedLicenses\', title: \'许可证\', width: 120, align: \'center\', templet: function(d) {
+                    {field:\'usageLocation\', title: \'地区\', width: 100, align: \'center\'},
+                    {field:\'assignedLicenses\', title: \'许可证\', align: \'center\', templet: function(d) {
                         let s = \'<a lay-event="addsubscribe" lineIndex="\' + d.LAY_TABLE_INDEX + \'">\';
                         if (d.assignedLicenses=="") {
                             s += \'<span style="color:#ff461f">无许可</span>\';
