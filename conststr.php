@@ -7,35 +7,67 @@ global $license;
 $license = [
     'c42b9cae-ea4f-4ab7-9717-81576235ccac' => [
         'SYSNAME' => 'DEVELOPERPACK_E5',
-        'name' => 'E5开发者'
+        'name' => 'Microsoft 365 E5 Developer'
     ],
     '189a915c-fe4f-4ffa-bde4-85b9628d07a0' => [
         'SYSNAME' => 'DEVELOPERPACK',
-        'name' => 'E3开发者'
+        'name' => 'Office 365 E3 Developer'
+    ],
+    '3b555118-da6a-4418-894f-7df1e2096870' => [
+        'SYSNAME' => 'O365_BUSINESS_ESSENTIALS',
+        'name' => 'Microsoft 365 Business Basic'
+    ],
+    '94763226-9b3c-4e75-a931-5c89701abe66' => [
+        'SYSNAME' => 'STANDARDWOFFPACK_FACULTY',
+        'name' => 'Office 365 A1 for Faculty'
+    ],
+    '314c4481-f395-4525-be8b-2ec4bb1e9d91' => [
+        'SYSNAME' => 'STANDARDWOFFPACK_STUDENT',
+        'name' => 'Office 365 A1 for Students'
+    ],
+    '78e66a63-337a-4a9a-8959-41c6654dfb56' => [
+        'SYSNAME' => 'STANDARDWOFFPACK_IW_FACULTY',
+        'name' => 'Office 365 A1 Plus for Faculty'
+    ],
+    'e82ae690-a2d5-4d76-8d30-7c6e01e6022e' => [
+        'SYSNAME' => 'STANDARDWOFFPACK_IW_STUDENT',
+        'name' => 'Office 365 A1 Plus for Students'
     ],
     'f30db892-07e9-47e9-837c-80727f46fd3d' => [
         'SYSNAME' => 'FLOW_FREE',
         'name' => 'Microsoft Power Automate Free'
     ],
-    '94763226-9b3c-4e75-a931-5c89701abe66' => [
-        'SYSNAME' => 'STANDARDWOFFPACK_FACULTY',
-        'name' => 'A1教职工'
+    '710779e8-3d4a-4c88-adb9-386c958d1fdf' => [
+        'SYSNAME' => 'TEAMS_EXPLORATORY',
+        'name' => 'Microsoft Teams Exploratory'
     ],
-    '314c4481-f395-4525-be8b-2ec4bb1e9d91' => [
-        'SYSNAME' => 'STANDARDWOFFPACK_STUDENT',
-        'name' => 'A1学生'
+    'a403ebcc-fae0-4ca2-8c8c-7a907fd6c235' => [
+        'SYSNAME' => 'POWER_BI_STANDARD',
+        'name' => 'Power BI (free)'
     ],
-    'e82ae690-a2d5-4d76-8d30-7c6e01e6022e' => [
-        'SYSNAME' => 'STANDARDWOFFPACK_IW_STUDENT',
-        'name' => 'A1P学生'
+    '1f2f344a-700d-42c9-9427-5cea1d5d7ba6' => [
+        'SYSNAME' => 'STREAM',
+        'name' => 'Microsoft Stream Trial'
     ],
-    '78e66a63-337a-4a9a-8959-41c6654dfb56' => [
-        'SYSNAME' => 'STANDARDWOFFPACK_IW_FACULTY',
-        'name' => 'A1P教职工'
+    'dcb1a3ae-b33f-4487-846a-a640262fadf4' => [
+        'SYSNAME' => 'POWERAPPS_VIRAL',
+        'name' => 'Microsoft Power Apps Plan 2 Trial'
+    ],
+    'bf666882-9c9b-4b2e-aa2f-4789b0a52ba2' => [
+        'SYSNAME' => 'POWERAPPS_PER_APP_IW',
+        'name' => 'PowerApps per app baseline access'
+    ],
+	'8c4ce438-32a7-4ac5-91a6-e22ae08d9c8b' => [
+        'SYSNAME' => 'RIGHTSMANAGEMENT_ADHOC',
+        'name' => 'Rights Management Adhoc'
+    ],
+	'1c6d88d3-c6f1-4d3a-a952-d109db9412c0' => [
+        'SYSNAME' => 'SKU_Dynamics_365_for_HCM',
+        'name' => 'SKU_Dynamics_365_for_HCM'
     ],
     'ad2fe44a-915d-4e2b-ade1-6766d50a9d9c' => [
         'SYSNAME' => 'EXCHANGESTANDARD_STUDENT',
-        'name' => 'Exchange Online（计划 1）学生版'
+        'name' => 'Exchange Online P1 for Students'
     ]
 ];
 
